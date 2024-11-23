@@ -1,0 +1,8 @@
+.holder {
+    display: flex;
+}
+
+.item {
+    order: -1;
+    font-size: 100px;
+}
